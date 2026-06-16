@@ -1,0 +1,81 @@
+# Core Data Science Libraries
+numpy
+pandas
+scipy
+
+# Data Visualization
+matplotlib
+plotly
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Deep Learning (optional)
+tensorflow
+torch
+torchvision
+
+# Jupyter Notebook
+jupyter
+notebook
+ipykernel
+
+# Model Persistence
+joblib
+pickle-mixin
+
+# Web Framework for Deployment
+flask
+fastapi
+uvicorn
+
+# API Testing
+requests
+
+# Database Connectivity
+sqlalchemy
+pymysql
+psycopg2-binary
+
+# Environment Variables
+python-dotenv
+
+# Configuration
+pyyaml
+
+# Data Validation
+pydantic
+
+# Experiment Tracking (optional)
+mlflow
+
+# Version Control / Utilities
+tqdm
+
+# Testing
+pytest
+
+# Code Formatting & Linting
+black
+flake8
+
+# Documentation
+mkdocs
+
+# Excel File Support
+openpyxl
+xlsxwriter
+
+# Image Processing (optional)
+pillow
+
+# Web Scraping (optional)
+beautifulsoup4
+lxml
+
+# HTTP Client
+httpx

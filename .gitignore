@@ -1,0 +1,104 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ----------------------------
+# Virtual Environments
+# ----------------------------
+venv/
+.venv/
+env/
+ENV/
+
+# ----------------------------
+# Jupyter Notebook
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# Environment Variables
+# ----------------------------
+.env
+.env.*
+
+# ----------------------------
+# Python Packaging
+# ----------------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ----------------------------
+# Testing & Coverage
+# ----------------------------
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# ----------------------------
+# Logs
+# ----------------------------
+logs/
+*.log
+
+# ----------------------------
+# IDEs & Editors
+# ----------------------------
+.vscode/
+.idea/
+
+# ----------------------------
+# OS Files
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Model Files
+# ----------------------------
+models/
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.onnx
+*.pt
+*.pth
+
+# ----------------------------
+# Data Files
+# Keep folder structure but ignore contents
+# ----------------------------
+data/raw/*
+data/processed/*
+data/external/*
+
+# Keep placeholder files
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/external/.gitkeep
+
+# ----------------------------
+# Reports & Outputs
+# ----------------------------
+reports/figures/
+outputs/
+artifacts/
+
+# ----------------------------
+# Cache Files
+# ----------------------------
+.cache/
+.mypy_cache/
+
+# ----------------------------
+# Temporary Files
+# ----------------------------
+*.tmp
+*.temp
